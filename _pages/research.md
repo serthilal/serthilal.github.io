@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I study the impact of foreign rebel support on interstate relations. Specifically, I examine hpw states respond to foreign rebel support and how it affects interstate conflict. In a secondary agenda, I study authoritarian rehime practices such as affects of conflict on term limit evasions.
+I study the impact of foreign rebel support on interstate relations. Specifically, I examine hpw states respond to foreign rebel support and how it affects interstate conflict. In a secondary agenda, I study authoritarian rehime practices such as affects of conflict on term limit evasions. 
 
 
 ## Working Papers
