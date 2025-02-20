@@ -25,4 +25,4 @@ I study the impact of foreign rebel support on interstate relations. Specificall
 ## Datasets 
 
 
-- Carlin, Ryan E., Jonathan Hartlyn, Timothy Hellwig, Gregory J. Love, Cecilia Mart´ınez-Gallardo, Matthew M. Singer, Juan S. G´omez- Cruces, and Hilal Sert. 2023. Executive Approval Database 3.0. Available for download at [Executive Approval Project](https://executiveapproval.org/download/).
+- Carlin, Ryan E., Jonathan Hartlyn, Timothy Hellwig, Gregory J. Love, Cecilia Martinez-Gallardo, Matthew M. Singer, Juan S. Gomez- Cruces, and Hilal Sert. 2023. Executive Approval Database 3.0. Available for download at [Executive Approval Project](https://executiveapproval.org/download/).
