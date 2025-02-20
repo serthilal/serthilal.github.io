@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
+## Teaching Experience 
 
 - Instructor of Record for POLS2401 (Global Issues) - Georgia State University (Fall 2024)
 
