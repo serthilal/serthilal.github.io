@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I study the impact of public opinion on counterinsurgency tactics. Specifically, I examine government efforts to avoid public backlash for counterinsurgency efforts both abroad and at home. In a secondary agenda, I study the interaction between domestic politics and foreign policy, emphasizing the role of domestic politics in foreign policy making.
+I study the impact of foreign rebel support on interstate relations. Specifically, I examine hpw states respond to foreign rebel support and how it affects interstate conflict. In a secondary agenda, I study authoritarian rehime practices such as affects of conflict on term limit evasions.
 
 
 ## Working Papers
