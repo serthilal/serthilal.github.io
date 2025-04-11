@@ -6,21 +6,15 @@ author_profile: true
 ---
 
 
-I study the impact of foreign rebel support on interstate relations. Specifically, I examine how states respond to foreign rebel support and how it affects interstate conflict. In a secondary agenda, I study authoritarian rehime practices such as affects of conflict on term limit evasions. 
+I study the impact of foreign rebel support on interstate relations. Specifically, I examine how states respond to foreign rebel support and how it affects interstate conflict. As a secondary agenda, I study authoritarian regime practices, such as the effects of conflict on term limit evasions. 
 
 
 ## Working Papers
 
 - Reversing Backsliding: Voter Backlash and Elite Defections (with Burak Kazim Yilmaz).
 
-
-## Work in Progress
-
-
-- Effect of Conflict on Term Limit Evasions (with Anthony DeMattee and David Carroll)
-  
-- Undermining Democracy: How Term-Limit Evasion Tactics Shape Electoral Integrity (with Ian Batista, Anthony DeMattee and David Carroll)
-
+- The Role of Militarized Interstate Disputes in Presidential Term Limit Evasions: From Crisis to Consolidation (with Anthony DeMattee)
+- 
 
 ## Datasets 
 
