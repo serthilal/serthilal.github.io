@@ -14,7 +14,7 @@ I study the impact of foreign rebel support on interstate relations. Specificall
 - Reversing Backsliding: Voter Backlash and Elite Defections (with Burak Kazim Yilmaz).
 
 - The Role of Militarized Interstate Disputes in Presidential Term Limit Evasions: From Crisis to Consolidation (with Anthony DeMattee)
-- 
+
 
 ## Datasets 
 
