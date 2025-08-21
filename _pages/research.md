@@ -13,7 +13,9 @@ I study the impact of foreign rebel support on interstate relations. Specificall
 
 - Reversing Backsliding: Voter Backlash and Elite Defections (with Burak Kazim Yilmaz).
 
-- The Role of Militarized Interstate Disputes in Presidential Term Limit Evasions: From Crisis to Consolidation (with Anthony DeMattee)
+- The Role of Militarized Interstate Disputes in Presidential Term Limit Evasions: From Crisis to Consolidation (with Anthony DeMattee-Invited to R&R at Journal of Peace Research)
+  
+- Trying Their Best to Overstay: How Presidential Term Limits Evasion Harms Electoral Integrity (with Ian Rebouças Batista and Anthony J. DeMattee)
 
 
 ## Datasets 
