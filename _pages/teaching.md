@@ -19,7 +19,7 @@ author_profile: true
 
 ## ICPSR
 
-- Teaching Assistant for Introduction to the R Statistical Computing Environment (Instructor: Kerem Ozan Kalkan) - ICPSR Summer School (Summer 2024)
+- Teaching Assistant for Introduction to the R Statistical Computing Environment (Instructor: Kerem Ozan Kalkan) - Summer 2024
 
 ## Sabanci University
 
