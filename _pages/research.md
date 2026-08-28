@@ -50,6 +50,9 @@ author_profile: true
 
 - Sert, Hilal and Burak Kazim Yilmaz. “Public Support for Retaliation Against Rebel Sponsors.” (work in progress)
 
+## Other Publications
+
+- Hilal Sert, Burak Kazim Yilmaz, and Anthony J. DeMattee. 2026. “Repression Under the Cover of Peace: The Peace-Democracy Wedge in Turkish Politics.” The Democracy Program, The Carter Center. Atlanta, GA.
 
 ## Datasets 
 
