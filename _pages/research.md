@@ -8,7 +8,7 @@ author_profile: true
 
 ## Publications
 
-- Sert, Hilal and Anthony J. DeMattee. Forthcoming. “The Role of Militarized Interstate Disputes in Presidential Term Limit Evasions: From Crisis to Consolidation.” Journal of Peace Research. DOI: 10.1093/jopres/xjag078.
+- Sert, Hilal and Anthony J. DeMattee. Forthcoming. “The Role of Militarized Interstate Disputes in Presidential Term Limit Evasions: From Crisis to Consolidation.” Journal of Peace Research. DOI: [10.1093/jopres/xjag078](https://doi.org/10.1093/jopres/xjag078).
 
 -   <details>
     <summary>Abstract</summary>
