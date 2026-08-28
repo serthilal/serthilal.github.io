@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-I study the impact of foreign rebel support on interstate relations. Specifically, I examine how states respond to foreign rebel support and how it affects interstate conflict. As a secondary agenda, I study authoritarian regime practices, such as the effects of conflict on term limit evasions. 
-
 ## Publications
 
 - Sert, Hilal and Anthony J. DeMattee. Forthcoming. “The Role of Militarized Interstate Disputes in Presidential Term Limit Evasions: From Crisis to Consolidation.” Journal of Peace Research. DOI: 10.1093/jopres/xjag078.
